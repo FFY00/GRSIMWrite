@@ -1,0 +1,5 @@
+Operation steps
+
+Step 1: Read Card
+Step 2: Input data
+Step 3: Write Card
